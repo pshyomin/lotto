@@ -1,0 +1,12 @@
+C:\Lotto\Lotto\bin\Release\Lotto.exe.config
+C:\Lotto\Lotto\bin\Release\Lotto.exe
+C:\Lotto\Lotto\bin\Release\Lotto.pdb
+C:\Lotto\Lotto\bin\Release\Newtonsoft.Json.dll
+C:\Lotto\Lotto\bin\Release\Newtonsoft.Json.xml
+C:\Lotto\Lotto\obj\Release\Lotto.csprojAssemblyReference.cache
+C:\Lotto\Lotto\obj\Release\Lotto.Form1.resources
+C:\Lotto\Lotto\obj\Release\Lotto.Properties.Resources.resources
+C:\Lotto\Lotto\obj\Release\Lotto.csproj.GenerateResource.cache
+C:\Lotto\Lotto\obj\Release\Lotto.csproj.CopyComplete
+C:\Lotto\Lotto\obj\Release\Lotto.exe
+C:\Lotto\Lotto\obj\Release\Lotto.pdb

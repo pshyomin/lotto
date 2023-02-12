@@ -1,0 +1,634 @@
+﻿<Mappings><Entry OldName="Lotto.Form1.thread" NewName="A.&#x3;.&#x5;" />
+<Entry OldName="Lotto.Form1.threadAuto" NewName="A.&#x3;.&#x12;" />
+<Entry OldName="Lotto.Form1.threadMath" NewName="A.&#x3;.&#xF;" />
+<Entry OldName="Lotto.Form1.windowp" NewName="A.&#x3;.&#x5;" />
+<Entry OldName="Lotto.Form1.drwnumber" NewName="A.&#x3;.&#x5;" />
+<Entry OldName="Lotto.Form1.drwCheck" NewName="A.&#x3;.&#x12;" />
+<Entry OldName="Lotto.Form1.Check" NewName="A.&#x3;.&#x5;" />
+<Entry OldName="Lotto.Form1.AutoCheck" NewName="A.&#x3;.&#x12;" />
+<Entry OldName="Lotto.Form1.mathB" NewName="A.&#x3;.&#xF;" />
+<Entry OldName="Lotto.Form1.Code1" NewName="A.&#x3;.&#x5;" />
+<Entry OldName="Lotto.Form1.Code2" NewName="A.&#x3;.&#x12;" />
+<Entry OldName="Lotto.Form1.Code3" NewName="A.&#x3;.&#xF;" />
+<Entry OldName="Lotto.Form1.Code4" NewName="A.&#x3;.	" />
+<Entry OldName="Lotto.Form1.Code5" NewName="A.&#x3;.&#xE;" />
+<Entry OldName="Lotto.Form1.Code6" NewName="A.&#x3;.&#xB;" />
+<Entry OldName="Lotto.Form1.Code7" NewName="A.&#x3;.&#x17;" />
+<Entry OldName="Lotto.Form1.Zz" NewName="A.&#x3;.&#xF;" />
+<Entry OldName="Lotto.Form1.Hh" NewName="A.&#x3;.	" />
+<Entry OldName="Lotto.Form1.components" NewName="A.&#x3;.&#x5;" />
+<Entry OldName="Lotto.Form1.panel1" NewName="A.&#x3;.&#x5;" />
+<Entry OldName="Lotto.Form1.label6" NewName="A.&#x3;.&#x5;" />
+<Entry OldName="Lotto.Form1.label5" NewName="A.&#x3;.&#x12;" />
+<Entry OldName="Lotto.Form1.label4" NewName="A.&#x3;.&#xF;" />
+<Entry OldName="Lotto.Form1.label3" NewName="A.&#x3;.	" />
+<Entry OldName="Lotto.Form1.label2" NewName="A.&#x3;.&#xE;" />
+<Entry OldName="Lotto.Form1.label1" NewName="A.&#x3;.&#xB;" />
+<Entry OldName="Lotto.Form1.label7" NewName="A.&#x3;.&#x17;" />
+<Entry OldName="Lotto.Form1.label8" NewName="A.&#x3;.&#x2;" />
+<Entry OldName="Lotto.Form1.listView1" NewName="A.&#x3;.&#x5;" />
+<Entry OldName="Lotto.Form1.button1" NewName="A.&#x3;.&#x5;" />
+<Entry OldName="Lotto.Form1.label9" NewName="A.&#x3;.&#x3;" />
+<Entry OldName="Lotto.Form1.button2" NewName="A.&#x3;.&#x12;" />
+<Entry OldName="Lotto.Form1.label10" NewName="A.&#x3;.&#xA;" />
+<Entry OldName="Lotto.Form1.panel2" NewName="A.&#x3;.&#x12;" />
+<Entry OldName="Lotto.Form1.label11" NewName="A.&#x3;.&#xC;" />
+<Entry OldName="Lotto.Form1.printDialog1" NewName="A.&#x3;.&#x5;" />
+<Entry OldName="Lotto.Form1.label12" NewName="A.&#x3;.&#x13;" />
+<Entry OldName="Lotto.Form1.panel3" NewName="A.&#x3;.&#xF;" />
+<Entry OldName="Lotto.Form1.label13" NewName="A.&#x3;.&#x1E;" />
+<Entry OldName="Lotto.Form1.label14" NewName="A.&#x3;.&#x4;" />
+<Entry OldName="Lotto.Form1.label15" NewName="A.&#x3;.&#x1C;" />
+<Entry OldName="Lotto.Form1.label16" NewName="A.&#x3;. " />
+<Entry OldName="Lotto.Form1.label17" NewName="A.&#x3;.&#x15;" />
+<Entry OldName="Lotto.Form1.label18" NewName="A.&#x3;.&#xD;" />
+<Entry OldName="Lotto.Form1.label19" NewName="A.&#x3;.&#x16;" />
+<Entry OldName="Lotto.Form1.panel4" NewName="A.&#x3;.	" />
+<Entry OldName="Lotto.Form1.label20" NewName="A.&#x3;.&#x19;" />
+<Entry OldName="Lotto.Form1.label21" NewName="A.&#x3;.&#x6;" />
+<Entry OldName="Lotto.Form1.label22" NewName="A.&#x3;.&#x1;" />
+<Entry OldName="Lotto.Form1.label23" NewName="A.&#x3;.&#x18;" />
+<Entry OldName="Lotto.Form1.label24" NewName="A.&#x3;.&#x7;" />
+<Entry OldName="Lotto.Form1.label25" NewName="A.&#x3;.&#x1B;" />
+<Entry OldName="Lotto.Form1.panel5" NewName="A.&#x3;.&#xE;" />
+<Entry OldName="Lotto.Form1.label26" NewName="A.&#x3;.&#x10;" />
+<Entry OldName="Lotto.Form1.panel6" NewName="A.&#x3;.&#xB;" />
+<Entry OldName="Lotto.Form1.label27" NewName="A.&#x3;.&#x1F;" />
+<Entry OldName="Lotto.Form1.label28" NewName="A.&#x3;.&#x11;" />
+<Entry OldName="Lotto.Form1.label29" NewName="A.&#x3;.&#x1A;" />
+<Entry OldName="Lotto.Form1.label30" NewName="A.&#x3;.&#x14;" />
+<Entry OldName="Lotto.Form1.label31" NewName="A.&#x3;.&#x1D;" />
+<Entry OldName="Lotto.Form1.label32" NewName="A.&#x3;.&#x8;" />
+<Entry OldName="Lotto.Form1.label33" NewName="A.&#x3;.&#x5;&#x12;" />
+<Entry OldName="Lotto.Form1.label34" NewName="A.&#x3;.&#x12;&#x12;" />
+<Entry OldName="Lotto.Form1.label35" NewName="A.&#x3;.&#xF;&#x12;" />
+<Entry OldName="Lotto.Form1.label36" NewName="A.&#x3;.	&#x12;" />
+<Entry OldName="Lotto.Form1.label37" NewName="A.&#x3;.&#xE;&#x12;" />
+<Entry OldName="Lotto.Form1.button3" NewName="A.&#x3;.&#xF;" />
+<Entry OldName="Lotto.Form1.panel7" NewName="A.&#x3;.&#x17;" />
+<Entry OldName="Lotto.Form1.label38" NewName="A.&#x3;.&#xB;&#x12;" />
+<Entry OldName="Lotto.Form1.label39" NewName="A.&#x3;.&#x17;&#x12;" />
+<Entry OldName="Lotto.Form1.listView2" NewName="A.&#x3;.&#x12;" />
+<Entry OldName="Lotto.Form1.listView3" NewName="A.&#x3;.&#xF;" />
+<Entry OldName="Lotto.Form1.label40" NewName="A.&#x3;.&#x2;&#x12;" />
+<Entry OldName="Lotto.Form1.listView4" NewName="A.&#x3;.	" />
+<Entry OldName="Lotto.Form1.label41" NewName="A.&#x3;.&#x3;&#x12;" />
+<Entry OldName="Lotto.Form1.listView5" NewName="A.&#x3;.&#xE;" />
+<Entry OldName="Lotto.Form1.label42" NewName="A.&#x3;.&#xA;&#x12;" />
+<Entry OldName="Lotto.Form1.listView6" NewName="A.&#x3;.&#xB;" />
+<Entry OldName="Lotto.Form1.label43" NewName="A.&#x3;.&#xC;&#x12;" />
+<Entry OldName="Lotto.Form1.listView7" NewName="A.&#x3;.&#x17;" />
+<Entry OldName="Lotto.Form1.label44" NewName="A.&#x3;.&#x13;&#x12;" />
+<Entry OldName="Lotto.Form1.listView8" NewName="A.&#x3;.&#x2;" />
+<Entry OldName="Lotto.Form1.label45" NewName="A.&#x3;.&#x1E;&#x12;" />
+<Entry OldName="Lotto.Form1.panel8" NewName="A.&#x3;.&#x2;" />
+<Entry OldName="Lotto.Form1.panel9" NewName="A.&#x3;.&#x3;" />
+<Entry OldName="Lotto.Form1.panel10" NewName="A.&#x3;.&#xA;" />
+<Entry OldName="Lotto.Form1.label46" NewName="A.&#x3;.&#x4;&#x12;" />
+<Entry OldName="Lotto.Form1.label47" NewName="A.&#x3;.&#x1C;&#x12;" />
+<Entry OldName="Lotto.Form1.label48" NewName="A.&#x3;. &#x12;" />
+<Entry OldName="Lotto.Form1.label49" NewName="A.&#x3;.&#x15;&#x12;" />
+<Entry OldName="Lotto.Form1.label50" NewName="A.&#x3;.&#xD;&#x12;" />
+<Entry OldName="Lotto.Form1.label51" NewName="A.&#x3;.&#x16;&#x12;" />
+<Entry OldName="Lotto.Form1.button4" NewName="A.&#x3;.	" />
+<Entry OldName="Lotto.Form1.checkBox1" NewName="A.&#x3;.&#x5;" />
+<Entry OldName="Lotto.Form1.checkBox2" NewName="A.&#x3;.&#x12;" />
+<Entry OldName="Lotto.Form1.checkBox3" NewName="A.&#x3;.&#xF;" />
+<Entry OldName="Lotto.Form1.panel11" NewName="A.&#x3;.&#xC;" />
+<Entry OldName="Lotto.Form1.trackBar1" NewName="A.&#x3;.&#x5;" />
+<Entry OldName="Lotto.Form1.label53" NewName="A.&#x3;.&#x19;&#x12;" />
+<Entry OldName="Lotto.Form1.label52" NewName="A.&#x3;.&#x6;&#x12;" />
+<Entry OldName="Lotto.Form1.label55" NewName="A.&#x3;.&#x1;&#x12;" />
+<Entry OldName="Lotto.Form1.label54" NewName="A.&#x3;.&#x18;&#x12;" />
+<Entry OldName="Lotto.Form1.label56" NewName="A.&#x3;.&#x7;&#x12;" />
+<Entry OldName="Lotto.Form1.label57" NewName="A.&#x3;.&#x1B;&#x12;" />
+<Entry OldName="Lotto.Form1.label58" NewName="A.&#x3;.&#x10;&#x12;" />
+<Entry OldName="Lotto.LottoData.&lt;returnValue&gt;k__BackingField" NewName="A.&#xA;.&#x5;" />
+<Entry OldName="Lotto.LottoData.&lt;drwNoDate&gt;k__BackingField" NewName="A.&#xA;.&#x12;" />
+<Entry OldName="Lotto.LottoData.&lt;drwNo&gt;k__BackingField" NewName="A.&#xA;.&#xF;" />
+<Entry OldName="Lotto.LottoData.&lt;drwtNo1&gt;k__BackingField" NewName="A.&#xA;.	" />
+<Entry OldName="Lotto.LottoData.&lt;drwtNo2&gt;k__BackingField" NewName="A.&#xA;.&#xE;" />
+<Entry OldName="Lotto.LottoData.&lt;drwtNo3&gt;k__BackingField" NewName="A.&#xA;.&#xB;" />
+<Entry OldName="Lotto.LottoData.&lt;drwtNo4&gt;k__BackingField" NewName="A.&#xA;.&#x17;" />
+<Entry OldName="Lotto.LottoData.&lt;drwtNo5&gt;k__BackingField" NewName="A.&#xA;.&#x2;" />
+<Entry OldName="Lotto.LottoData.&lt;drwtNo6&gt;k__BackingField" NewName="A.&#xA;.&#x3;" />
+<Entry OldName="Lotto.LottoData.&lt;bnusNo&gt;k__BackingField" NewName="A.&#xA;.&#xA;" />
+<Entry OldName="Lotto.MyListViewComparer.col" NewName="A.&#xC;.&#x5;" />
+<Entry OldName="Lotto.MyListViewComparer.order" NewName="A.&#xC;.&#x5;" />
+<Entry OldName="Lotto.Sorter.Column" NewName="A.&#x13;.&#x5;" />
+<Entry OldName="Lotto.Sorter.Order" NewName="A.&#x13;.&#x5;" />
+<Entry OldName="Lotto.MessageBoxEx._owner" NewName="A.&#x15;.&#x5;" />
+<Entry OldName="Lotto.MessageBoxEx._hookProc" NewName="A.&#x15;.&#x5;" />
+<Entry OldName="Lotto.MessageBoxEx._hHook" NewName="A.&#x15;.&#x5;" />
+<Entry OldName="Lotto.MessageBoxEx.WH_CALLWNDPROCRET" NewName="A.&#x15;.&#x5;" />
+<Entry OldName="Lotto.Properties.Resources.resourceMan" NewName="A.&#x16;.&#x5;" />
+<Entry OldName="Lotto.Properties.Resources.resourceCulture" NewName="A.&#x16;.&#x5;" />
+<Entry OldName="Lotto.Form1.&lt;&gt;c__DisplayClass13_0.viewItem" NewName="A.&#x3;.&#x5;.&#x5;" />
+<Entry OldName="Lotto.Form1.&lt;&gt;c__DisplayClass13_0.&lt;&gt;4__this" NewName="A.&#x3;.&#x5;.&#x5;" />
+<Entry OldName="Lotto.Form1.&lt;&gt;c__DisplayClass13_1.viewItem" NewName="A.&#x3;.&#x12;.&#x5;" />
+<Entry OldName="Lotto.Form1.&lt;&gt;c__DisplayClass13_1.&lt;&gt;4__this" NewName="A.&#x3;.&#x12;.&#x5;" />
+<Entry OldName="Lotto.Form1.&lt;&gt;c__DisplayClass13_2.viewItem" NewName="A.&#x3;.&#xF;.&#x5;" />
+<Entry OldName="Lotto.Form1.&lt;&gt;c__DisplayClass13_2.&lt;&gt;4__this" NewName="A.&#x3;.&#xF;.&#x5;" />
+<Entry OldName="Lotto.Form1.&lt;&gt;c__DisplayClass13_3.viewItem" NewName="A.&#x3;.	.&#x5;" />
+<Entry OldName="Lotto.Form1.&lt;&gt;c__DisplayClass13_3.&lt;&gt;4__this" NewName="A.&#x3;.	.&#x5;" />
+<Entry OldName="Lotto.Form1.&lt;&gt;c__DisplayClass13_4.viewItem" NewName="A.&#x3;.&#xE;.&#x5;" />
+<Entry OldName="Lotto.Form1.&lt;&gt;c__DisplayClass13_4.&lt;&gt;4__this" NewName="A.&#x3;.&#xE;.&#x5;" />
+<Entry OldName="Lotto.Form1.&lt;&gt;c__DisplayClass13_5.viewItem" NewName="A.&#x3;.&#xB;.&#x5;" />
+<Entry OldName="Lotto.Form1.&lt;&gt;c__DisplayClass13_5.&lt;&gt;4__this" NewName="A.&#x3;.&#xB;.&#x5;" />
+<Entry OldName="Lotto.Form1.&lt;&gt;c__DisplayClass13_6.viewItem" NewName="A.&#x3;.&#x17;.&#x5;" />
+<Entry OldName="Lotto.Form1.&lt;&gt;c__DisplayClass13_6.&lt;&gt;4__this" NewName="A.&#x3;.&#x17;.&#x5;" />
+<Entry OldName="Lotto.Form1.&lt;&gt;c__DisplayClass26_0.arr" NewName="A.&#x3;.&#x2;.&#x5;" />
+<Entry OldName="Lotto.Form1.&lt;&gt;c__DisplayClass26_0.&lt;&gt;4__this" NewName="A.&#x3;.&#x2;.&#x5;" />
+<Entry OldName="Lotto.MessageBoxEx.CbtHookAction.value__" NewName="A.&#x15;.&#x1C;.value__" />
+<Entry OldName="Lotto.MessageBoxEx.CbtHookAction.HCBT_MOVESIZE" NewName="A.&#x15;.&#x1C;.&#x5;" />
+<Entry OldName="Lotto.MessageBoxEx.CbtHookAction.HCBT_MINMAX" NewName="A.&#x15;.&#x1C;.&#x12;" />
+<Entry OldName="Lotto.MessageBoxEx.CbtHookAction.HCBT_QS" NewName="A.&#x15;.&#x1C;.&#xF;" />
+<Entry OldName="Lotto.MessageBoxEx.CbtHookAction.HCBT_CREATEWND" NewName="A.&#x15;.&#x1C;.	" />
+<Entry OldName="Lotto.MessageBoxEx.CbtHookAction.HCBT_DESTROYWND" NewName="A.&#x15;.&#x1C;.&#xE;" />
+<Entry OldName="Lotto.MessageBoxEx.CbtHookAction.HCBT_ACTIVATE" NewName="A.&#x15;.&#x1C;.&#xB;" />
+<Entry OldName="Lotto.MessageBoxEx.CbtHookAction.HCBT_CLICKSKIPPED" NewName="A.&#x15;.&#x1C;.&#x17;" />
+<Entry OldName="Lotto.MessageBoxEx.CbtHookAction.HCBT_KEYSKIPPED" NewName="A.&#x15;.&#x1C;.&#x2;" />
+<Entry OldName="Lotto.MessageBoxEx.CbtHookAction.HCBT_SYSCOMMAND" NewName="A.&#x15;.&#x1C;.&#x3;" />
+<Entry OldName="Lotto.MessageBoxEx.CbtHookAction.HCBT_SETFOCUS" NewName="A.&#x15;.&#x1C;.&#xA;" />
+<Entry OldName="Lotto.MessageBoxEx.CWPRETSTRUCT.lResult" NewName="A.&#x15;. .&#x5;" />
+<Entry OldName="Lotto.MessageBoxEx.CWPRETSTRUCT.lParam" NewName="A.&#x15;. .&#x12;" />
+<Entry OldName="Lotto.MessageBoxEx.CWPRETSTRUCT.wParam" NewName="A.&#x15;. .&#xF;" />
+<Entry OldName="Lotto.MessageBoxEx.CWPRETSTRUCT.message" NewName="A.&#x15;. .&#x5;" />
+<Entry OldName="Lotto.MessageBoxEx.CWPRETSTRUCT.hwnd" NewName="A.&#x15;. .	" />
+<Entry OldName="Lotto.Form1..ctor()" NewName="A.&#x3;..ctor()" />
+<Entry OldName="Lotto.Form1.CreateRoundRectRgn(Int32 nLeftRect, Int32 nTopRect, Int32 nRightRect, Int32 nBottomRect, Int32 nWidthEllipse, Int32 nHeightEllipse)" NewName="A.&#x3;.&#x5;(Int32 , Int32 , Int32 , Int32 , Int32 , Int32 )" />
+<Entry OldName="Lotto.Form1.Form1_Load(Object sender, EventArgs e)" NewName="A.&#x3;.&#x5;(Object , EventArgs )" />
+<Entry OldName="Lotto.Form1.Json()" NewName="A.&#x3;.&#x5;()" />
+<Entry OldName="Lotto.Form1.Auto()" NewName="A.&#x3;.&#x12;()" />
+<Entry OldName="Lotto.Form1.Sum()" NewName="A.&#x3;.&#xF;()" />
+<Entry OldName="Lotto.Form1.mathSum(Int32 a)" NewName="A.&#x3;.&#x5;(Int32 )" />
+<Entry OldName="Lotto.Form1.mathSumNum(Int32[] GetVs)" NewName="A.&#x3;.&#x12;(Int32[] )" />
+<Entry OldName="Lotto.Form1.IsInternetConnected()" NewName="A.&#x3;.&#x5;()" />
+<Entry OldName="Lotto.Form1.Request_Json(Int32 drw)" NewName="A.&#x3;.&#x5;(Int32 )" />
+<Entry OldName="Lotto.Form1.ParseJson(String json)" NewName="A.&#x3;.&#x12;(String )" />
+<Entry OldName="Lotto.Form1.button1_Click(Object sender, EventArgs e)" NewName="A.&#x3;.&#x12;(Object , EventArgs )" />
+<Entry OldName="Lotto.Form1.AutoNum1()" NewName="A.&#x3;.	()" />
+<Entry OldName="Lotto.Form1.AutoNum2()" NewName="A.&#x3;.&#xE;()" />
+<Entry OldName="Lotto.Form1.AutoNum3()" NewName="A.&#x3;.&#xB;()" />
+<Entry OldName="Lotto.Form1.SetLabelColor(Label label)" NewName="A.&#x3;.&#x5;(Label )" />
+<Entry OldName="Lotto.Form1.label6_Click(Object sender, EventArgs e)" NewName="A.&#x3;.&#xF;(Object , EventArgs )" />
+<Entry OldName="Lotto.Form1.button2_Click(Object sender, EventArgs e)" NewName="A.&#x3;.	(Object , EventArgs )" />
+<Entry OldName="Lotto.Form1.button3_Click(Object sender, EventArgs e)" NewName="A.&#x3;.&#xE;(Object , EventArgs )" />
+<Entry OldName="Lotto.Form1.listView2_ColumnClick(Object sender, ColumnClickEventArgs e)" NewName="A.&#x3;.&#x5;(Object , ColumnClickEventArgs )" />
+<Entry OldName="Lotto.Form1.SaveData()" NewName="A.&#x3;.&#x17;()" />
+<Entry OldName="Lotto.Form1.LoadData()" NewName="A.&#x3;.&#x2;()" />
+<Entry OldName="Lotto.Form1.listView3_ColumnClick(Object sender, ColumnClickEventArgs e)" NewName="A.&#x3;.&#x12;(Object , ColumnClickEventArgs )" />
+<Entry OldName="Lotto.Form1.listView4_ColumnClick(Object sender, ColumnClickEventArgs e)" NewName="A.&#x3;.&#xF;(Object , ColumnClickEventArgs )" />
+<Entry OldName="Lotto.Form1.listView5_ColumnClick(Object sender, ColumnClickEventArgs e)" NewName="A.&#x3;.	(Object , ColumnClickEventArgs )" />
+<Entry OldName="Lotto.Form1.listView6_ColumnClick(Object sender, ColumnClickEventArgs e)" NewName="A.&#x3;.&#xE;(Object , ColumnClickEventArgs )" />
+<Entry OldName="Lotto.Form1.listView7_ColumnClick(Object sender, ColumnClickEventArgs e)" NewName="A.&#x3;.&#xB;(Object , ColumnClickEventArgs )" />
+<Entry OldName="Lotto.Form1.listView8_ColumnClick(Object sender, ColumnClickEventArgs e)" NewName="A.&#x3;.&#x17;(Object , ColumnClickEventArgs )" />
+<Entry OldName="Lotto.Form1.button4_Click(Object sender, EventArgs e)" NewName="A.&#x3;.&#xB;(Object , EventArgs )" />
+<Entry OldName="Lotto.Form1.checkBox1_CheckedChanged(Object sender, EventArgs e)" NewName="A.&#x3;.&#x17;(Object , EventArgs )" />
+<Entry OldName="Lotto.Form1.checkBox3_CheckedChanged(Object sender, EventArgs e)" NewName="A.&#x3;.&#x2;(Object , EventArgs )" />
+<Entry OldName="Lotto.Form1.label57_Click(Object sender, EventArgs e)" NewName="A.&#x3;.&#x3;(Object , EventArgs )" />
+<Entry OldName="Lotto.Form1.label58_Click(Object sender, EventArgs e)" NewName="A.&#x3;.&#xA;(Object , EventArgs )" />
+<Entry OldName="Lotto.Form1.trackBar1_Scroll(Object sender, EventArgs e)" NewName="A.&#x3;.&#xC;(Object , EventArgs )" />
+<Entry OldName="Lotto.Form1.Dispose(Boolean disposing)" NewName="A.&#x3;.Dispose(Boolean disposing)" />
+<Entry OldName="Lotto.Form1.InitializeComponent()" NewName="A.&#x3;.&#x3;()" />
+<Entry OldName="Lotto.Form1.&lt;Json&gt;b__10_0()" NewName="A.&#x3;.&#xA;()" />
+<Entry OldName="Lotto.Form1.&lt;Json&gt;b__10_1()" NewName="A.&#x3;.&#xC;()" />
+<Entry OldName="Lotto.Form1.&lt;ParseJson&gt;b__26_0()" NewName="A.&#x3;.&#x13;()" />
+<Entry OldName="Lotto.Form1.&lt;ParseJson&gt;b__26_1()" NewName="A.&#x3;.&#x1E;()" />
+<Entry OldName="Lotto.Form1.&lt;ParseJson&gt;b__26_2()" NewName="A.&#x3;.&#x4;()" />
+<Entry OldName="Lotto.Form1.&lt;ParseJson&gt;b__26_3()" NewName="A.&#x3;.&#x1C;()" />
+<Entry OldName="Lotto.Form1.&lt;ParseJson&gt;b__26_4()" NewName="A.&#x3;. ()" />
+<Entry OldName="Lotto.Form1.&lt;ParseJson&gt;b__26_5()" NewName="A.&#x3;.&#x15;()" />
+<Entry OldName="Lotto.Form1.&lt;ParseJson&gt;b__26_6()" NewName="A.&#x3;.&#xD;()" />
+<Entry OldName="Lotto.Form1.&lt;button2_Click&gt;b__33_0()" NewName="A.&#x3;.&#x16;()" />
+<Entry OldName="Lotto.Form1.&lt;button2_Click&gt;b__33_1()" NewName="A.&#x3;.&#x19;()" />
+<Entry OldName="Lotto.Form1.&lt;button2_Click&gt;b__33_2()" NewName="A.&#x3;.&#x6;()" />
+<Entry OldName="Lotto.LottoData..ctor()" NewName="A.&#xA;..ctor()" />
+<Entry OldName="Lotto.LottoData.get_returnValue()" NewName="A.&#xA;.get_returnValue()" />
+<Entry OldName="Lotto.LottoData.set_returnValue(String value)" NewName="A.&#xA;.set_returnValue(String value)" />
+<Entry OldName="Lotto.LottoData.get_drwNoDate()" NewName="A.&#xA;.get_drwNoDate()" />
+<Entry OldName="Lotto.LottoData.set_drwNoDate(String value)" NewName="A.&#xA;.set_drwNoDate(String value)" />
+<Entry OldName="Lotto.LottoData.get_drwNo()" NewName="A.&#xA;.get_drwNo()" />
+<Entry OldName="Lotto.LottoData.set_drwNo(String value)" NewName="A.&#xA;.set_drwNo(String value)" />
+<Entry OldName="Lotto.LottoData.get_drwtNo1()" NewName="A.&#xA;.get_drwtNo1()" />
+<Entry OldName="Lotto.LottoData.set_drwtNo1(String value)" NewName="A.&#xA;.set_drwtNo1(String value)" />
+<Entry OldName="Lotto.LottoData.get_drwtNo2()" NewName="A.&#xA;.get_drwtNo2()" />
+<Entry OldName="Lotto.LottoData.set_drwtNo2(String value)" NewName="A.&#xA;.set_drwtNo2(String value)" />
+<Entry OldName="Lotto.LottoData.get_drwtNo3()" NewName="A.&#xA;.get_drwtNo3()" />
+<Entry OldName="Lotto.LottoData.set_drwtNo3(String value)" NewName="A.&#xA;.set_drwtNo3(String value)" />
+<Entry OldName="Lotto.LottoData.get_drwtNo4()" NewName="A.&#xA;.get_drwtNo4()" />
+<Entry OldName="Lotto.LottoData.set_drwtNo4(String value)" NewName="A.&#xA;.set_drwtNo4(String value)" />
+<Entry OldName="Lotto.LottoData.get_drwtNo5()" NewName="A.&#xA;.get_drwtNo5()" />
+<Entry OldName="Lotto.LottoData.set_drwtNo5(String value)" NewName="A.&#xA;.set_drwtNo5(String value)" />
+<Entry OldName="Lotto.LottoData.get_drwtNo6()" NewName="A.&#xA;.get_drwtNo6()" />
+<Entry OldName="Lotto.LottoData.set_drwtNo6(String value)" NewName="A.&#xA;.set_drwtNo6(String value)" />
+<Entry OldName="Lotto.LottoData.get_bnusNo()" NewName="A.&#xA;.get_bnusNo()" />
+<Entry OldName="Lotto.LottoData.set_bnusNo(String value)" NewName="A.&#xA;.set_bnusNo(String value)" />
+<Entry OldName="Lotto.MyListViewComparer..ctor()" NewName="A.&#xC;..ctor()" />
+<Entry OldName="Lotto.MyListViewComparer..ctor(Int32 column, SortOrder order)" NewName="A.&#xC;..ctor(Int32 , SortOrder )" />
+<Entry OldName="Lotto.MyListViewComparer.Compare(Object x, Object y)" NewName="A.&#xC;.Compare(Object x, Object y)" />
+<Entry OldName="Lotto.Sorter..ctor()" NewName="A.&#x13;..ctor()" />
+<Entry OldName="Lotto.Sorter.Compare(Object x, Object y)" NewName="A.&#x13;.Compare(Object x, Object y)" />
+<Entry OldName="Lotto.MessageBoxEx..cctor()" NewName="A.&#x15;..cctor()" />
+<Entry OldName="Lotto.MessageBoxEx..ctor()" NewName="A.&#x15;..ctor()" />
+<Entry OldName="Lotto.MessageBoxEx.Show(String text)" NewName="A.&#x15;.&#x5;(String )" />
+<Entry OldName="Lotto.MessageBoxEx.Show(String text, String caption)" NewName="A.&#x15;.&#x5;(String , String )" />
+<Entry OldName="Lotto.MessageBoxEx.Show(String text, String caption, MessageBoxButtons buttons)" NewName="A.&#x15;.&#x5;(String , String , MessageBoxButtons )" />
+<Entry OldName="Lotto.MessageBoxEx.Show(String text, String caption, MessageBoxButtons buttons, MessageBoxIcon icon)" NewName="A.&#x15;.&#x5;(String , String , MessageBoxButtons , MessageBoxIcon )" />
+<Entry OldName="Lotto.MessageBoxEx.Show(String text, String caption, MessageBoxButtons buttons, MessageBoxIcon icon, MessageBoxDefaultButton defButton)" NewName="A.&#x15;.&#x5;(String , String , MessageBoxButtons , MessageBoxIcon , MessageBoxDefaultButton )" />
+<Entry OldName="Lotto.MessageBoxEx.Show(String text, String caption, MessageBoxButtons buttons, MessageBoxIcon icon, MessageBoxDefaultButton defButton, MessageBoxOptions options)" NewName="A.&#x15;.&#x5;(String , String , MessageBoxButtons , MessageBoxIcon , MessageBoxDefaultButton , MessageBoxOptions )" />
+<Entry OldName="Lotto.MessageBoxEx.Show(IWin32Window owner, String text)" NewName="A.&#x15;.&#x5;(IWin32Window , String )" />
+<Entry OldName="Lotto.MessageBoxEx.Show(IWin32Window owner, String text, String caption)" NewName="A.&#x15;.&#x5;(IWin32Window , String , String )" />
+<Entry OldName="Lotto.MessageBoxEx.Show(IWin32Window owner, String text, String caption, MessageBoxButtons buttons)" NewName="A.&#x15;.&#x5;(IWin32Window , String , String , MessageBoxButtons )" />
+<Entry OldName="Lotto.MessageBoxEx.Show(IWin32Window owner, String text, String caption, MessageBoxButtons buttons, MessageBoxIcon icon)" NewName="A.&#x15;.&#x5;(IWin32Window , String , String , MessageBoxButtons , MessageBoxIcon )" />
+<Entry OldName="Lotto.MessageBoxEx.Show(IWin32Window owner, String text, String caption, MessageBoxButtons buttons, MessageBoxIcon icon, MessageBoxDefaultButton defButton)" NewName="A.&#x15;.&#x5;(IWin32Window , String , String , MessageBoxButtons , MessageBoxIcon , MessageBoxDefaultButton )" />
+<Entry OldName="Lotto.MessageBoxEx.Show(IWin32Window owner, String text, String caption, MessageBoxButtons buttons, MessageBoxIcon icon, MessageBoxDefaultButton defButton, MessageBoxOptions options)" NewName="A.&#x15;.&#x5;(IWin32Window , String , String , MessageBoxButtons , MessageBoxIcon , MessageBoxDefaultButton , MessageBoxOptions )" />
+<Entry OldName="Lotto.MessageBoxEx.GetWindowRect(IntPtr hWnd, Rectangle&amp; lpRect)" NewName="A.&#x15;.&#x5;(IntPtr , Rectangle&amp; )" />
+<Entry OldName="Lotto.MessageBoxEx.MoveWindow(IntPtr hWnd, Int32 X, Int32 Y, Int32 nWidth, Int32 nHeight, Boolean bRepaint)" NewName="A.&#x15;.&#x5;(IntPtr , Int32 , Int32 , Int32 , Int32 , Boolean )" />
+<Entry OldName="Lotto.MessageBoxEx.SetTimer(IntPtr hWnd, UIntPtr nIDEvent, UInt32 uElapse, TimerProc lpTimerFunc)" NewName="A.&#x15;.&#x5;(IntPtr , UIntPtr , UInt32 , &#x4; )" />
+<Entry OldName="Lotto.MessageBoxEx.SendMessage(IntPtr hWnd, Int32 Msg, IntPtr wParam, IntPtr lParam)" NewName="A.&#x15;.&#x5;(IntPtr , Int32 , IntPtr , IntPtr )" />
+<Entry OldName="Lotto.MessageBoxEx.SetWindowsHookEx(Int32 idHook, HookProc lpfn, IntPtr hInstance, Int32 threadId)" NewName="A.&#x15;.&#x5;(Int32 , &#x1E; , IntPtr , Int32 )" />
+<Entry OldName="Lotto.MessageBoxEx.UnhookWindowsHookEx(IntPtr idHook)" NewName="A.&#x15;.&#x5;(IntPtr )" />
+<Entry OldName="Lotto.MessageBoxEx.CallNextHookEx(IntPtr idHook, Int32 nCode, IntPtr wParam, IntPtr lParam)" NewName="A.&#x15;.&#x12;(IntPtr , Int32 , IntPtr , IntPtr )" />
+<Entry OldName="Lotto.MessageBoxEx.GetWindowTextLength(IntPtr hWnd)" NewName="A.&#x15;.&#x12;(IntPtr )" />
+<Entry OldName="Lotto.MessageBoxEx.GetWindowText(IntPtr hWnd, StringBuilder text, Int32 maxLength)" NewName="A.&#x15;.&#x5;(IntPtr , StringBuilder , Int32 )" />
+<Entry OldName="Lotto.MessageBoxEx.EndDialog(IntPtr hDlg, IntPtr nResult)" NewName="A.&#x15;.&#xF;(IntPtr , IntPtr )" />
+<Entry OldName="Lotto.MessageBoxEx.GetCurrentThreadId()" NewName="A.&#x15;.&#x5;()" />
+<Entry OldName="Lotto.MessageBoxEx.Initialize()" NewName="A.&#x15;.&#x5;()" />
+<Entry OldName="Lotto.MessageBoxEx.MessageBoxHookProc(Int32 nCode, IntPtr wParam, IntPtr lParam)" NewName="A.&#x15;.&#xF;(Int32 , IntPtr , IntPtr )" />
+<Entry OldName="Lotto.MessageBoxEx.CenterWindow(IntPtr hChildWnd)" NewName="A.&#x15;.&#x5;(IntPtr )" />
+<Entry OldName="Lotto.Program.Main()" NewName="A.&#xD;.&#x5;()" />
+<Entry OldName="Lotto.Properties.Resources..ctor()" NewName="A.&#x16;..ctor()" />
+<Entry OldName="Lotto.Properties.Resources.get_ResourceManager()" NewName="A.&#x16;.get_ResourceManager()" />
+<Entry OldName="Lotto.Properties.Resources.get_Culture()" NewName="A.&#x16;.get_Culture()" />
+<Entry OldName="Lotto.Properties.Resources.set_Culture(CultureInfo value)" NewName="A.&#x16;.set_Culture(CultureInfo value)" />
+<Entry OldName="Lotto.Form1.&lt;&gt;c__DisplayClass13_0..ctor()" NewName="A.&#x3;.&#x5;..ctor()" />
+<Entry OldName="Lotto.Form1.&lt;&gt;c__DisplayClass13_0.&lt;Sum&gt;b__0()" NewName="A.&#x3;.&#x5;.&#x5;()" />
+<Entry OldName="Lotto.Form1.&lt;&gt;c__DisplayClass13_1..ctor()" NewName="A.&#x3;.&#x12;..ctor()" />
+<Entry OldName="Lotto.Form1.&lt;&gt;c__DisplayClass13_1.&lt;Sum&gt;b__1()" NewName="A.&#x3;.&#x12;.&#x5;()" />
+<Entry OldName="Lotto.Form1.&lt;&gt;c__DisplayClass13_2..ctor()" NewName="A.&#x3;.&#xF;..ctor()" />
+<Entry OldName="Lotto.Form1.&lt;&gt;c__DisplayClass13_2.&lt;Sum&gt;b__2()" NewName="A.&#x3;.&#xF;.&#x5;()" />
+<Entry OldName="Lotto.Form1.&lt;&gt;c__DisplayClass13_3..ctor()" NewName="A.&#x3;.	..ctor()" />
+<Entry OldName="Lotto.Form1.&lt;&gt;c__DisplayClass13_3.&lt;Sum&gt;b__3()" NewName="A.&#x3;.	.&#x5;()" />
+<Entry OldName="Lotto.Form1.&lt;&gt;c__DisplayClass13_4..ctor()" NewName="A.&#x3;.&#xE;..ctor()" />
+<Entry OldName="Lotto.Form1.&lt;&gt;c__DisplayClass13_4.&lt;Sum&gt;b__4()" NewName="A.&#x3;.&#xE;.&#x5;()" />
+<Entry OldName="Lotto.Form1.&lt;&gt;c__DisplayClass13_5..ctor()" NewName="A.&#x3;.&#xB;..ctor()" />
+<Entry OldName="Lotto.Form1.&lt;&gt;c__DisplayClass13_5.&lt;Sum&gt;b__5()" NewName="A.&#x3;.&#xB;.&#x5;()" />
+<Entry OldName="Lotto.Form1.&lt;&gt;c__DisplayClass13_6..ctor()" NewName="A.&#x3;.&#x17;..ctor()" />
+<Entry OldName="Lotto.Form1.&lt;&gt;c__DisplayClass13_6.&lt;Sum&gt;b__6()" NewName="A.&#x3;.&#x17;.&#x5;()" />
+<Entry OldName="Lotto.Form1.&lt;&gt;c__DisplayClass26_0..ctor()" NewName="A.&#x3;.&#x2;..ctor()" />
+<Entry OldName="Lotto.Form1.&lt;&gt;c__DisplayClass26_0.&lt;ParseJson&gt;b__7()" NewName="A.&#x3;.&#x2;.&#x5;()" />
+<Entry OldName="Lotto.MessageBoxEx.HookProc..ctor(Object object, IntPtr method)" NewName="A.&#x15;.&#x1E;..ctor(Object object, IntPtr method)" />
+<Entry OldName="Lotto.MessageBoxEx.HookProc.Invoke(Int32 nCode, IntPtr wParam, IntPtr lParam)" NewName="A.&#x15;.&#x1E;.Invoke(Int32 nCode, IntPtr wParam, IntPtr lParam)" />
+<Entry OldName="Lotto.MessageBoxEx.HookProc.BeginInvoke(Int32 nCode, IntPtr wParam, IntPtr lParam, AsyncCallback callback, Object object)" NewName="A.&#x15;.&#x1E;.BeginInvoke(Int32 nCode, IntPtr wParam, IntPtr lParam, AsyncCallback callback, Object object)" />
+<Entry OldName="Lotto.MessageBoxEx.HookProc.EndInvoke(IAsyncResult result)" NewName="A.&#x15;.&#x1E;.EndInvoke(IAsyncResult result)" />
+<Entry OldName="Lotto.MessageBoxEx.TimerProc..ctor(Object object, IntPtr method)" NewName="A.&#x15;.&#x4;..ctor(Object object, IntPtr method)" />
+<Entry OldName="Lotto.MessageBoxEx.TimerProc.Invoke(IntPtr hWnd, UInt32 uMsg, UIntPtr nIDEvent, UInt32 dwTime)" NewName="A.&#x15;.&#x4;.Invoke(IntPtr hWnd, UInt32 uMsg, UIntPtr nIDEvent, UInt32 dwTime)" />
+<Entry OldName="Lotto.MessageBoxEx.TimerProc.BeginInvoke(IntPtr hWnd, UInt32 uMsg, UIntPtr nIDEvent, UInt32 dwTime, AsyncCallback callback, Object object)" NewName="A.&#x15;.&#x4;.BeginInvoke(IntPtr hWnd, UInt32 uMsg, UIntPtr nIDEvent, UInt32 dwTime, AsyncCallback callback, Object object)" />
+<Entry OldName="Lotto.MessageBoxEx.TimerProc.EndInvoke(IAsyncResult result)" NewName="A.&#x15;.&#x4;.EndInvoke(IAsyncResult result)" />
+<Entry OldName="Lotto.Form1+&lt;&gt;c__DisplayClass13_0" NewName="A.&#x3;+&#x5;" />
+<Entry OldName="Lotto.Form1+&lt;&gt;c__DisplayClass13_1" NewName="A.&#x3;+&#x12;" />
+<Entry OldName="Lotto.Form1+&lt;&gt;c__DisplayClass13_2" NewName="A.&#x3;+&#xF;" />
+<Entry OldName="Lotto.Form1+&lt;&gt;c__DisplayClass13_3" NewName="A.&#x3;+	" />
+<Entry OldName="Lotto.Form1+&lt;&gt;c__DisplayClass13_4" NewName="A.&#x3;+&#xE;" />
+<Entry OldName="Lotto.Form1+&lt;&gt;c__DisplayClass13_5" NewName="A.&#x3;+&#xB;" />
+<Entry OldName="Lotto.Form1+&lt;&gt;c__DisplayClass13_6" NewName="A.&#x3;+&#x17;" />
+<Entry OldName="Lotto.Form1+&lt;&gt;c__DisplayClass26_0" NewName="A.&#x3;+&#x2;" />
+<Entry OldName="Lotto.Form1" NewName="A.&#x3;" />
+<Entry OldName="Lotto.LottoData" NewName="A.&#xA;" />
+<Entry OldName="Lotto.MyListViewComparer" NewName="A.&#xC;" />
+<Entry OldName="Lotto.Sorter" NewName="A.&#x13;" />
+<Entry OldName="Lotto.MessageBoxEx+HookProc" NewName="A.&#x15;+&#x1E;" />
+<Entry OldName="Lotto.MessageBoxEx+TimerProc" NewName="A.&#x15;+&#x4;" />
+<Entry OldName="Lotto.MessageBoxEx+CbtHookAction" NewName="A.&#x15;+&#x1C;" />
+<Entry OldName="Lotto.MessageBoxEx+CWPRETSTRUCT" NewName="A.&#x15;+ " />
+<Entry OldName="Lotto.MessageBoxEx" NewName="A.&#x15;" />
+<Entry OldName="Lotto.Program" NewName="A.&#xD;" />
+<Entry OldName="Lotto.Properties.Resources" NewName="A.&#x16;" />
+<Entry OldName="C:\Lotto\Lotto\Form1.cs" NewName="File0" />
+<Entry OldName="C:\Lotto\Lotto\Form1.Designer.cs" NewName="File1" />
+<Entry OldName="C:\Lotto\Lotto\Program.cs" NewName="File2" />
+<Entry OldName="C:\Lotto\Lotto\Properties\Resources.Designer.cs" NewName="File3" />
+<Entry OldName="C:\Lotto\Lotto\Properties\Settings.Designer.cs" NewName="File4" />
+<Assembly Name="Lotto"><Type Token="33554433" Name="&lt;Module&gt;" />
+<Method Token="100663297" Name="" Variables="" ParamCnt="0" />
+<Type Token="33554434" Name="Lotto.Form1" />
+<Method Token="100663298" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663299" Name="CreateRoundRectRgn" Variables="nLeftRect;nTopRect;nRightRect;nBottomRect;nWidthEllipse;nHeightEllipse;" ParamCnt="6" />
+<Method Token="100663300" Name="Form1_Load" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663301" Name="Json" Variables="this;i;a;" ParamCnt="1" />
+<Method Token="100663302" Name="Auto" Variables="this;" ParamCnt="1" />
+<Method Token="100663303" Name="Sum" Variables="this;i;arr;arr;arr;arr;arr;arr;arr;" ParamCnt="1" />
+<Method Token="100663304" Name="mathSum" Variables="this;a;GetVs;i;j;" ParamCnt="2" />
+<Method Token="100663305" Name="mathSumNum" Variables="this;GetVs;max;num;i;j;" ParamCnt="2" />
+<Method Token="100663306" Name="IsInternetConnected" Variables="this;dnsHost;V_1;" ParamCnt="1" />
+<Method Token="100663307" Name="Request_Json" Variables="this;drw;result;url;" ParamCnt="2" />
+<Method Token="100663308" Name="ParseJson" Variables="this;json;boolt;lottoDatas;obj;lottoData;V_5;" ParamCnt="2" />
+<Method Token="100663309" Name="button1_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663310" Name="AutoNum1" Variables="this;randomNum;lottoNum;n;i;i;" ParamCnt="1" />
+<Method Token="100663311" Name="AutoNum2" Variables="this;randomNum;lottoNum;n;i;i;" ParamCnt="1" />
+<Method Token="100663312" Name="AutoNum3" Variables="this;randomNum;lottoNum;n;i;i;" ParamCnt="1" />
+<Method Token="100663313" Name="SetLabelColor" Variables="this;label;label1;" ParamCnt="2" />
+<Method Token="100663314" Name="label6_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663315" Name="button2_Click" Variables="this;sender;e;file;" ParamCnt="3" />
+<Method Token="100663316" Name="button3_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663317" Name="listView2_ColumnClick" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663318" Name="SaveData" Variables="this;tWriter;V_1;item;V_3;" ParamCnt="1" />
+<Method Token="100663319" Name="LoadData" Variables="this;tReader;V_1;V_2;stringLine;stringArray;item;" ParamCnt="1" />
+<Method Token="100663320" Name="listView3_ColumnClick" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663321" Name="listView4_ColumnClick" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663322" Name="listView5_ColumnClick" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663323" Name="listView6_ColumnClick" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663324" Name="listView7_ColumnClick" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663325" Name="listView8_ColumnClick" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663326" Name="button4_Click" Variables="this;sender;e;Get1;Get2;Get3;Get4;Get5;Get6;GetZ;GetH;GetZ2;GetH2;GetZ3;GetH3;GetZ4;GetH4;GetZ5;GetH5;GetZ6;GetH6;Z;H;i;i;i;i;lottoNum;n;i;i;lottoNum;n;i;i;Check;Check;Check;Check;Check;Check;" ParamCnt="3" />
+<Method Token="100663327" Name="checkBox1_CheckedChanged" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663328" Name="checkBox3_CheckedChanged" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663329" Name="label57_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663330" Name="label58_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663331" Name="trackBar1_Scroll" Variables="this;sender;e;a;" ParamCnt="3" />
+<Method Token="100663332" Name="Dispose" Variables="this;disposing;" ParamCnt="2" />
+<Method Token="100663333" Name="InitializeComponent" Variables="this;" ParamCnt="1" />
+<Method Token="100663334" Name="&lt;Json&gt;b__10_0" Variables="this;" ParamCnt="1" />
+<Method Token="100663335" Name="&lt;Json&gt;b__10_1" Variables="this;" ParamCnt="1" />
+<Method Token="100663336" Name="&lt;ParseJson&gt;b__26_0" Variables="this;" ParamCnt="1" />
+<Method Token="100663337" Name="&lt;ParseJson&gt;b__26_1" Variables="this;" ParamCnt="1" />
+<Method Token="100663338" Name="&lt;ParseJson&gt;b__26_2" Variables="this;" ParamCnt="1" />
+<Method Token="100663339" Name="&lt;ParseJson&gt;b__26_3" Variables="this;" ParamCnt="1" />
+<Method Token="100663340" Name="&lt;ParseJson&gt;b__26_4" Variables="this;" ParamCnt="1" />
+<Method Token="100663341" Name="&lt;ParseJson&gt;b__26_5" Variables="this;" ParamCnt="1" />
+<Method Token="100663342" Name="&lt;ParseJson&gt;b__26_6" Variables="this;" ParamCnt="1" />
+<Method Token="100663343" Name="&lt;button2_Click&gt;b__33_0" Variables="this;" ParamCnt="1" />
+<Method Token="100663344" Name="&lt;button2_Click&gt;b__33_1" Variables="this;" ParamCnt="1" />
+<Method Token="100663345" Name="&lt;button2_Click&gt;b__33_2" Variables="this;" ParamCnt="1" />
+<Field Token="67108865" Name="thread" />
+<Field Token="67108866" Name="threadAuto" />
+<Field Token="67108867" Name="threadMath" />
+<Field Token="67108868" Name="windowp" />
+<Field Token="67108869" Name="drwnumber" />
+<Field Token="67108870" Name="drwCheck" />
+<Field Token="67108871" Name="Check" />
+<Field Token="67108872" Name="AutoCheck" />
+<Field Token="67108873" Name="mathB" />
+<Field Token="67108874" Name="Code1" />
+<Field Token="67108875" Name="Code2" />
+<Field Token="67108876" Name="Code3" />
+<Field Token="67108877" Name="Code4" />
+<Field Token="67108878" Name="Code5" />
+<Field Token="67108879" Name="Code6" />
+<Field Token="67108880" Name="Code7" />
+<Field Token="67108881" Name="Zz" />
+<Field Token="67108882" Name="Hh" />
+<Field Token="67108883" Name="components" />
+<Field Token="67108884" Name="panel1" />
+<Field Token="67108885" Name="label6" />
+<Field Token="67108886" Name="label5" />
+<Field Token="67108887" Name="label4" />
+<Field Token="67108888" Name="label3" />
+<Field Token="67108889" Name="label2" />
+<Field Token="67108890" Name="label1" />
+<Field Token="67108891" Name="label7" />
+<Field Token="67108892" Name="label8" />
+<Field Token="67108893" Name="listView1" />
+<Field Token="67108894" Name="button1" />
+<Field Token="67108895" Name="label9" />
+<Field Token="67108896" Name="button2" />
+<Field Token="67108897" Name="label10" />
+<Field Token="67108898" Name="panel2" />
+<Field Token="67108899" Name="label11" />
+<Field Token="67108900" Name="printDialog1" />
+<Field Token="67108901" Name="label12" />
+<Field Token="67108902" Name="panel3" />
+<Field Token="67108903" Name="label13" />
+<Field Token="67108904" Name="label14" />
+<Field Token="67108905" Name="label15" />
+<Field Token="67108906" Name="label16" />
+<Field Token="67108907" Name="label17" />
+<Field Token="67108908" Name="label18" />
+<Field Token="67108909" Name="label19" />
+<Field Token="67108910" Name="panel4" />
+<Field Token="67108911" Name="label20" />
+<Field Token="67108912" Name="label21" />
+<Field Token="67108913" Name="label22" />
+<Field Token="67108914" Name="label23" />
+<Field Token="67108915" Name="label24" />
+<Field Token="67108916" Name="label25" />
+<Field Token="67108917" Name="panel5" />
+<Field Token="67108918" Name="label26" />
+<Field Token="67108919" Name="panel6" />
+<Field Token="67108920" Name="label27" />
+<Field Token="67108921" Name="label28" />
+<Field Token="67108922" Name="label29" />
+<Field Token="67108923" Name="label30" />
+<Field Token="67108924" Name="label31" />
+<Field Token="67108925" Name="label32" />
+<Field Token="67108926" Name="label33" />
+<Field Token="67108927" Name="label34" />
+<Field Token="67108928" Name="label35" />
+<Field Token="67108929" Name="label36" />
+<Field Token="67108930" Name="label37" />
+<Field Token="67108931" Name="button3" />
+<Field Token="67108932" Name="panel7" />
+<Field Token="67108933" Name="label38" />
+<Field Token="67108934" Name="label39" />
+<Field Token="67108935" Name="listView2" />
+<Field Token="67108936" Name="listView3" />
+<Field Token="67108937" Name="label40" />
+<Field Token="67108938" Name="listView4" />
+<Field Token="67108939" Name="label41" />
+<Field Token="67108940" Name="listView5" />
+<Field Token="67108941" Name="label42" />
+<Field Token="67108942" Name="listView6" />
+<Field Token="67108943" Name="label43" />
+<Field Token="67108944" Name="listView7" />
+<Field Token="67108945" Name="label44" />
+<Field Token="67108946" Name="listView8" />
+<Field Token="67108947" Name="label45" />
+<Field Token="67108948" Name="panel8" />
+<Field Token="67108949" Name="panel9" />
+<Field Token="67108950" Name="panel10" />
+<Field Token="67108951" Name="label46" />
+<Field Token="67108952" Name="label47" />
+<Field Token="67108953" Name="label48" />
+<Field Token="67108954" Name="label49" />
+<Field Token="67108955" Name="label50" />
+<Field Token="67108956" Name="label51" />
+<Field Token="67108957" Name="button4" />
+<Field Token="67108958" Name="checkBox1" />
+<Field Token="67108959" Name="checkBox2" />
+<Field Token="67108960" Name="checkBox3" />
+<Field Token="67108961" Name="panel11" />
+<Field Token="67108962" Name="trackBar1" />
+<Field Token="67108963" Name="label53" />
+<Field Token="67108964" Name="label52" />
+<Field Token="67108965" Name="label55" />
+<Field Token="67108966" Name="label54" />
+<Field Token="67108967" Name="label56" />
+<Field Token="67108968" Name="label57" />
+<Field Token="67108969" Name="label58" />
+<Type Token="33554436" Name="Lotto.LottoData" />
+<Method Token="100663347" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663348" Name="get_returnValue" Variables="this;" ParamCnt="1" />
+<Method Token="100663349" Name="set_returnValue" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663350" Name="get_drwNoDate" Variables="this;" ParamCnt="1" />
+<Method Token="100663351" Name="set_drwNoDate" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663352" Name="get_drwNo" Variables="this;" ParamCnt="1" />
+<Method Token="100663353" Name="set_drwNo" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663354" Name="get_drwtNo1" Variables="this;" ParamCnt="1" />
+<Method Token="100663355" Name="set_drwtNo1" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663356" Name="get_drwtNo2" Variables="this;" ParamCnt="1" />
+<Method Token="100663357" Name="set_drwtNo2" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663358" Name="get_drwtNo3" Variables="this;" ParamCnt="1" />
+<Method Token="100663359" Name="set_drwtNo3" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663360" Name="get_drwtNo4" Variables="this;" ParamCnt="1" />
+<Method Token="100663361" Name="set_drwtNo4" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663362" Name="get_drwtNo5" Variables="this;" ParamCnt="1" />
+<Method Token="100663363" Name="set_drwtNo5" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663364" Name="get_drwtNo6" Variables="this;" ParamCnt="1" />
+<Method Token="100663365" Name="set_drwtNo6" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663366" Name="get_bnusNo" Variables="this;" ParamCnt="1" />
+<Method Token="100663367" Name="set_bnusNo" Variables="this;value;" ParamCnt="2" />
+<Field Token="67108970" Name="&lt;returnValue&gt;k__BackingField" />
+<Field Token="67108971" Name="&lt;drwNoDate&gt;k__BackingField" />
+<Field Token="67108972" Name="&lt;drwNo&gt;k__BackingField" />
+<Field Token="67108973" Name="&lt;drwtNo1&gt;k__BackingField" />
+<Field Token="67108974" Name="&lt;drwtNo2&gt;k__BackingField" />
+<Field Token="67108975" Name="&lt;drwtNo3&gt;k__BackingField" />
+<Field Token="67108976" Name="&lt;drwtNo4&gt;k__BackingField" />
+<Field Token="67108977" Name="&lt;drwtNo5&gt;k__BackingField" />
+<Field Token="67108978" Name="&lt;drwtNo6&gt;k__BackingField" />
+<Field Token="67108979" Name="&lt;bnusNo&gt;k__BackingField" />
+<Type Token="33554437" Name="Lotto.MyListViewComparer" />
+<Method Token="100663368" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663369" Name=".ctor" Variables="this;column;order;" ParamCnt="3" />
+<Method Token="100663370" Name="Compare" Variables="this;x;y;returnVal;" ParamCnt="3" />
+<Field Token="67108980" Name="col" />
+<Field Token="67108981" Name="order" />
+<Type Token="33554439" Name="Lotto.Sorter" />
+<Method Token="100663377" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663378" Name="Compare" Variables="this;x;y;l1;l2;str1;str2;fl1;fl2;str1;str2;" ParamCnt="3" />
+<Field Token="67108983" Name="Column" />
+<Field Token="67108984" Name="Order" />
+<Type Token="33554440" Name="Lotto.MessageBoxEx" />
+<Method Token="100663379" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663380" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663381" Name="Show" Variables="text;" ParamCnt="1" />
+<Method Token="100663382" Name="Show" Variables="text;caption;" ParamCnt="2" />
+<Method Token="100663383" Name="Show" Variables="text;caption;buttons;" ParamCnt="3" />
+<Method Token="100663384" Name="Show" Variables="text;caption;buttons;icon;" ParamCnt="4" />
+<Method Token="100663385" Name="Show" Variables="text;caption;buttons;icon;defButton;" ParamCnt="5" />
+<Method Token="100663386" Name="Show" Variables="text;caption;buttons;icon;defButton;options;" ParamCnt="6" />
+<Method Token="100663387" Name="Show" Variables="owner;text;" ParamCnt="2" />
+<Method Token="100663388" Name="Show" Variables="owner;text;caption;" ParamCnt="3" />
+<Method Token="100663389" Name="Show" Variables="owner;text;caption;buttons;" ParamCnt="4" />
+<Method Token="100663390" Name="Show" Variables="owner;text;caption;buttons;icon;" ParamCnt="5" />
+<Method Token="100663391" Name="Show" Variables="owner;text;caption;buttons;icon;defButton;" ParamCnt="6" />
+<Method Token="100663392" Name="Show" Variables="owner;text;caption;buttons;icon;defButton;options;" ParamCnt="7" />
+<Method Token="100663393" Name="GetWindowRect" Variables="hWnd;lpRect;" ParamCnt="2" />
+<Method Token="100663394" Name="MoveWindow" Variables="hWnd;X;Y;nWidth;nHeight;bRepaint;" ParamCnt="6" />
+<Method Token="100663395" Name="SetTimer" Variables="hWnd;nIDEvent;uElapse;lpTimerFunc;" ParamCnt="4" />
+<Method Token="100663396" Name="SendMessage" Variables="hWnd;Msg;wParam;lParam;" ParamCnt="4" />
+<Method Token="100663397" Name="SetWindowsHookEx" Variables="idHook;lpfn;hInstance;threadId;" ParamCnt="4" />
+<Method Token="100663398" Name="UnhookWindowsHookEx" Variables="idHook;" ParamCnt="1" />
+<Method Token="100663399" Name="CallNextHookEx" Variables="idHook;nCode;wParam;lParam;" ParamCnt="4" />
+<Method Token="100663400" Name="GetWindowTextLength" Variables="hWnd;" ParamCnt="1" />
+<Method Token="100663401" Name="GetWindowText" Variables="hWnd;text;maxLength;" ParamCnt="3" />
+<Method Token="100663402" Name="EndDialog" Variables="hDlg;nResult;" ParamCnt="2" />
+<Method Token="100663403" Name="GetCurrentThreadId" Variables="" ParamCnt="0" />
+<Method Token="100663404" Name="Initialize" Variables="" ParamCnt="0" />
+<Method Token="100663405" Name="MessageBoxHookProc" Variables="nCode;wParam;lParam;msg;hook;" ParamCnt="3" />
+<Method Token="100663406" Name="CenterWindow" Variables="hChildWnd;recChild;width;height;recParent;ptCenter;ptStart;" ParamCnt="1" />
+<Field Token="67108985" Name="_owner" />
+<Field Token="67108986" Name="_hookProc" />
+<Field Token="67108987" Name="_hHook" />
+<Field Token="67108988" Name="WH_CALLWNDPROCRET" />
+<Type Token="33554441" Name="Lotto.Program" />
+<Method Token="100663407" Name="Main" Variables="" ParamCnt="0" />
+<Type Token="33554442" Name="Lotto.Properties.Resources" />
+<Method Token="100663408" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663409" Name="get_ResourceManager" Variables="" ParamCnt="0" />
+<Method Token="100663410" Name="get_Culture" Variables="" ParamCnt="0" />
+<Method Token="100663411" Name="set_Culture" Variables="value;" ParamCnt="1" />
+<Field Token="67108989" Name="resourceMan" />
+<Field Token="67108990" Name="resourceCulture" />
+<Type Token="33554443" Name="Lotto.Properties.Settings" />
+<Method Token="100663412" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663413" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663414" Name="get_Default" Variables="" ParamCnt="0" />
+<Field Token="67108991" Name="defaultInstance" />
+<Type Token="33554444" Name="Lotto.Form1/&lt;&gt;c__DisplayClass13_0" />
+<Method Token="100663415" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663416" Name="&lt;Sum&gt;b__0" Variables="this;" ParamCnt="1" />
+<Field Token="67108992" Name="viewItem" />
+<Field Token="67108993" Name="&lt;&gt;4__this" />
+<Type Token="33554445" Name="Lotto.Form1/&lt;&gt;c__DisplayClass13_1" />
+<Method Token="100663417" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663418" Name="&lt;Sum&gt;b__1" Variables="this;" ParamCnt="1" />
+<Field Token="67108994" Name="viewItem" />
+<Field Token="67108995" Name="&lt;&gt;4__this" />
+<Type Token="33554446" Name="Lotto.Form1/&lt;&gt;c__DisplayClass13_2" />
+<Method Token="100663419" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663420" Name="&lt;Sum&gt;b__2" Variables="this;" ParamCnt="1" />
+<Field Token="67108996" Name="viewItem" />
+<Field Token="67108997" Name="&lt;&gt;4__this" />
+<Type Token="33554448" Name="Lotto.Form1/&lt;&gt;c__DisplayClass13_3" />
+<Method Token="100663428" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663429" Name="&lt;Sum&gt;b__3" Variables="this;" ParamCnt="1" />
+<Field Token="67109000" Name="viewItem" />
+<Field Token="67109001" Name="&lt;&gt;4__this" />
+<Type Token="33554449" Name="Lotto.Form1/&lt;&gt;c__DisplayClass13_4" />
+<Method Token="100663430" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663431" Name="&lt;Sum&gt;b__4" Variables="this;" ParamCnt="1" />
+<Field Token="67109002" Name="viewItem" />
+<Field Token="67109003" Name="&lt;&gt;4__this" />
+<Type Token="33554451" Name="Lotto.Form1/&lt;&gt;c__DisplayClass13_5" />
+<Method Token="100663435" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663436" Name="&lt;Sum&gt;b__5" Variables="this;" ParamCnt="1" />
+<Field Token="67109005" Name="viewItem" />
+<Field Token="67109006" Name="&lt;&gt;4__this" />
+<Type Token="33554452" Name="Lotto.Form1/&lt;&gt;c__DisplayClass13_6" />
+<Method Token="100663437" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663438" Name="&lt;Sum&gt;b__6" Variables="this;" ParamCnt="1" />
+<Field Token="67109007" Name="viewItem" />
+<Field Token="67109008" Name="&lt;&gt;4__this" />
+<Type Token="33554454" Name="Lotto.Form1/&lt;&gt;c__DisplayClass26_0" />
+<Method Token="100663446" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663447" Name="&lt;ParseJson&gt;b__7" Variables="this;viewItem;i;" ParamCnt="1" />
+<Field Token="67109015" Name="arr" />
+<Field Token="67109016" Name="&lt;&gt;4__this" />
+<Type Token="33554455" Name="Lotto.MessageBoxEx/HookProc" />
+<Method Token="100663448" Name=".ctor" Variables="this;object;method;" ParamCnt="3" />
+<Method Token="100663449" Name="Invoke" Variables="this;nCode;wParam;lParam;" ParamCnt="4" />
+<Method Token="100663450" Name="BeginInvoke" Variables="this;nCode;wParam;lParam;callback;object;" ParamCnt="6" />
+<Method Token="100663451" Name="EndInvoke" Variables="this;result;" ParamCnt="2" />
+<Type Token="33554456" Name="Lotto.MessageBoxEx/TimerProc" />
+<Method Token="100663452" Name=".ctor" Variables="this;object;method;" ParamCnt="3" />
+<Method Token="100663453" Name="Invoke" Variables="this;hWnd;uMsg;nIDEvent;dwTime;" ParamCnt="5" />
+<Method Token="100663454" Name="BeginInvoke" Variables="this;hWnd;uMsg;nIDEvent;dwTime;callback;object;" ParamCnt="7" />
+<Method Token="100663455" Name="EndInvoke" Variables="this;result;" ParamCnt="2" />
+<Type Token="33554457" Name="Lotto.MessageBoxEx/CbtHookAction" />
+<Field Token="67109017" Name="value__" />
+<Field Token="67109018" Name="HCBT_MOVESIZE" />
+<Field Token="67109019" Name="HCBT_MINMAX" />
+<Field Token="67109020" Name="HCBT_QS" />
+<Field Token="67109021" Name="HCBT_CREATEWND" />
+<Field Token="67109022" Name="HCBT_DESTROYWND" />
+<Field Token="67109023" Name="HCBT_ACTIVATE" />
+<Field Token="67109024" Name="HCBT_CLICKSKIPPED" />
+<Field Token="67109025" Name="HCBT_KEYSKIPPED" />
+<Field Token="67109026" Name="HCBT_SYSCOMMAND" />
+<Field Token="67109027" Name="HCBT_SETFOCUS" />
+<Type Token="33554459" Name="Lotto.MessageBoxEx/CWPRETSTRUCT" />
+<Field Token="67109032" Name="lResult" />
+<Field Token="67109033" Name="lParam" />
+<Field Token="67109034" Name="wParam" />
+<Field Token="67109035" Name="message" />
+<Field Token="67109036" Name="hwnd" />
+<Type Token="33554435" Name="A.AssemblyInfoAttribute" />
+<Method Token="100663346" Name="" Variables="this;str;" ParamCnt="2" />
+</Assembly><File OldName="C:\Lotto\Lotto\Form1.cs" NewName="File0" />
+<File OldName="C:\Lotto\Lotto\Form1.Designer.cs" NewName="File1" />
+<File OldName="C:\Lotto\Lotto\Program.cs" NewName="File2" />
+<File OldName="C:\Lotto\Lotto\Properties\Resources.Designer.cs" NewName="File3" />
+<File OldName="C:\Lotto\Lotto\Properties\Settings.Designer.cs" NewName="File4" />
+</Mappings>
